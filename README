@@ -12,7 +12,7 @@ Input:
 This program gets its initial state from an input file where dead cells are indicated by dashes and live cells are indicated by asterisks.
 
 Output:
-This program returns a .txt file of the initial state and ten generations
+This program returns the initial state and ten generations
 
 Run:
 This program requires filename as a command line argument
