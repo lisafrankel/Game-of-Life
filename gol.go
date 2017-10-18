@@ -19,7 +19,7 @@ func processInput(filename string) string {
 	return string(data)
 }
 
-// take input string and put into a 2d bool array
+// take input string and put into a 2d bool array 
 func formatDat(inital_state string, row int, column int) [][]bool {
 	row += 2
 	column += 2
