@@ -141,7 +141,6 @@ func evolve(grid [][]bool, row int, column int) [][]bool{
 	
 func main() {
 	
-	//"/Users/Lisa/Desktop/HOME/go/src/gol/life.txt"
 	filename := os.Args[1]
 	inital_state := processInput(filename)
 
