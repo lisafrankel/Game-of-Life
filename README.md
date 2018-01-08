@@ -1,6 +1,6 @@
 # Game-of-Life
 
-This is an implementation of Conway’s Game of Life
+This is an implementation of Conway’s Game of Life, which I wrote to familiarize myself with Go.
 
 Rules:
 1) A living cell with 2 or 3 neighboring living cells survives
